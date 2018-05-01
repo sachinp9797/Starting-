@@ -1,2 +1,2 @@
-# Starting-
+# Starting
 First for practicing
