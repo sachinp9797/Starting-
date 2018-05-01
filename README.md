@@ -1,2 +1,2 @@
 # Starting
-First for practicing
+First repository for practicing purpose
